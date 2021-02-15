@@ -1,0 +1,23 @@
+/* Cambia disposicion de dos columnas a una */
+/* header.header{
+    display: none !important;
+}
+.main-wrapper{
+    width: 100%;
+    margin-left: 0;
+} */
+
+/* Quita panel de configuracion del color */
+#config-panel{
+    display: none !important;
+}
+
+/* Quita meta de las entradas del blog */
+.meta{
+    visibility: hidden;
+}
+
+/* Quita anterior/siguiente */
+.blog-nav{
+    display: none;
+}
