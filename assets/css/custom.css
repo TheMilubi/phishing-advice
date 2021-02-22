@@ -8,9 +8,9 @@
 } */
 
 /* Quita panel de configuracion del color */
-#config-panel{
+/* #config-panel{
     display: none !important;
-}
+} */
 
 /* Quita meta de las entradas del blog */
 .meta{
